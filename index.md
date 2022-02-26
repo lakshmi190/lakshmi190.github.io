@@ -27,3 +27,5 @@ My name is Lakshmi and I love cats!
 ## Cat!
 
 ![Tuxedo Cat](https://cdn.pixabay.com/photo/2015/09/01/01/16/tuxedo-cat-916335_960_720.jpg)
+
+![Catto Pic](catto.jpg)
