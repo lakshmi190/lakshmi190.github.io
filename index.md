@@ -2,7 +2,7 @@
 
 ***WELCOME TO MY WEBSITE!***
 
-![About Me!](about)
+![About Me](about.md)
 
 <!-- This is a comment -->
 
